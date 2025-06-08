@@ -1,5 +1,6 @@
+
 📺 Vidtube - Video Sharing Website
-Vidtube is a frontend video sharing platform inspired by YouTube. It features a modern UI layout with responsive navigation, sidebar shortcuts, a banner section, and video listings. This project is built using HTML, CSS, and JavaScript.
+- Vidtube is a frontend video sharing platform inspired by YouTube. It features a modern UI layout with responsive navigation, sidebar shortcuts, a banner section, and video listings. This project is built using HTML, CSS, and JavaScript.
 
 🚀 Features
 - 🔍 Search bar with voice search icon
@@ -38,7 +39,7 @@ Vidtube is a frontend video sharing platform inspired by YouTube. It features a 
   </p>
 
   <p align="center">
-    <img src="images\screenshot15.png" width="400">
+    <img src="images\screennhot15.png" width="400">
   </p>
 
   <p align="center">
